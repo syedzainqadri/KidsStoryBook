@@ -1,0 +1,5 @@
+<resources>
+    <string name= "app_name">kidsstorybook</string>
+    <string name="facebook_app_id">489059512051639</string>
+    <string name="fb_login_protocol_scheme">fb489059512051639</string>
+</resources>

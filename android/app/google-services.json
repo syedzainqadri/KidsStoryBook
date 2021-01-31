@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033609018193",
+    "project_id": "kids-stories-ewiglife",
+    "storage_bucket": "kids-stories-ewiglife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033609018193:android:34d8c1d2b63761d072b170",
+        "android_client_info": {
+          "package_name": "com.ewiglife.kidsstorybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033609018193-n3l5gm6kvlubq6truffeq15onen4juu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1n6xjEIMlIcwmkQqR3O0vymdv6xQUQJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033609018193-n3l5gm6kvlubq6truffeq15onen4juu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
